@@ -35,7 +35,5 @@ botão direito na solution > Configure Startup Project > Multiple startup projec
 ```bash
 dotnet run
 ```
-Acesse seu localhost pelo Docker e utilize usuário padrão guest.
+- Acesse seu localhost pelo container gerado no Docker e utilize usuário padrão guest na pagina do RabbitMQ.
 
-
--
